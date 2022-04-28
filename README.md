@@ -4,5 +4,4 @@ Ola!
 
 Bem vindo ao meu livro de receitas!
 
- - Strogonoff de frando
- - outras receitas
+# Algumas observações acerca de markdown
