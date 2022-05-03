@@ -1,10 +1,10 @@
 # Livro de Receitas
 
-Ola!
+### Ola!
 
-Bem vindo ao meu livro de receitas!
+#### Bem vindo ao meu livro de receitas!
 
- - Strogonoff de frando
+ - Strogonoff de frango
  - Pavê de chocolate
  - Bolo de cenoura
 
