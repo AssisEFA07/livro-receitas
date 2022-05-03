@@ -5,4 +5,6 @@ Ola!
 Bem vindo ao meu livro de receitas!
 
  - Strogonoff de frando
- - Pav? de chocolate
+ - Pavê de chocolate
+ - Bolo de cenoura
+
