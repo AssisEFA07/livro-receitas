@@ -8,3 +8,5 @@
  - Pavê de chocolate
  - Bolo de cenoura
 
+
+Para acessar o conteúdo, vá até o diretório "receitas" e escolha a receita que tiver interesse. 
